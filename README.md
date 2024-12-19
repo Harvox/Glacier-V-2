@@ -1,6 +1,6 @@
-# Glacier Script ❄️✨
+# GlacierV2 ❄️✨
 
-Welcome to **Glacier**! This advanced, feature-rich Roblox script is designed to enhance your gaming experience. Whether you're a developer looking to add exciting elements to your game or a player seeking an edge, Glacier has something for everyone! 🕹️💎
+Welcome to **Glacier**! This advanced, feature-rich Roblox script is designed to enhance your gaming experience. 🕹️💎
 
 ## Features 🌟
 
@@ -26,3 +26,4 @@ Connect with other users and share your experiences! Join our Discord or follow 
 ---
 
 Thank you for choosing **Glacier**! ❄️ We can’t wait for you to experience the magic of this script. Happy gaming! 🎉
+https://discord.gg/3eRTewaY
