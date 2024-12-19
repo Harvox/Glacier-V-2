@@ -11,7 +11,7 @@ Welcome to **Glacier**! This advanced, feature-rich Roblox script is designed to
 
 ## How to Use 📜
 
-1. **Purchase**: Acquire your copy of the Glacier script from our website. 💳
+1. **Purchase**: Acquire your copy of the Glacier script from our discord! https://discord.gg/3eRTewaY 💳
 2. **Installation**: Follow the simple installation guide included in the package.
 3. **Enjoy**: Start playing and unlock the full potential of your Roblox adventures! 🌍🎮
 
@@ -26,4 +26,3 @@ Connect with other users and share your experiences! Join our Discord or follow 
 ---
 
 Thank you for choosing **Glacier**! ❄️ We can’t wait for you to experience the magic of this script. Happy gaming! 🎉
-https://discord.gg/3eRTewaY
