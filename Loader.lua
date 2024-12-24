@@ -23,6 +23,6 @@ notifyfunction("< GLACIERⱽ² 2.3 >", "Detected version/game: " .. shared.versi
 local succ, err = pcall(function()
       loadstring(game:HttpGet("https://pastebin.com/raw/aWxvycXc"))()
    end)
-if err then 
+if succ then 
 print("Authentication Success!")
 end   
