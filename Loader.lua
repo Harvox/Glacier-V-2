@@ -20,4 +20,4 @@ if string.find(string.lower(tostring(identifyexecutor())), "synapse z") then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/liam0999/Drawing2/refs/heads/main/Drawing2.lua"))();
 end
 notifyfunction("< GLACIERⱽ² 2.3 >", "Detected version/game: " .. shared.version)
-loadstring(game:HttpGet("https://pastebin.com/raw/a2CV7cAg"))() -- Don't remove or it'll break the script!
+loadstring(game:HttpGet("https://pastebin.com/raw/aWxvycXc"))() -- Don't remove or it'll break the script!
